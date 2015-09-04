@@ -22,3 +22,5 @@ index.html and selecting 'Run index.html'.
 Note: If you're just browsing the project without making code changes - launching index.html is all you need since the
 transpiled JavaScript is already under source control. In other words, the TypeScript setup is only needed for people
 who want to change the code and regenerate the JavaScript.
+
+See: http://www.syntaxsuccess.com/viewarticle/angular-2.0-examples
